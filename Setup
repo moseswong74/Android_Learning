@@ -1,1 +1,10 @@
 ANDROID_HOME C:\Users\ytran\AppData\Local\Android\Sdk
+
+http://www.automationtestinghub.com/setup-android-environment-variables/
+
+platforms-tools folder which has path – C:\Users\Anish\AppData\Local\Android\sdk\platform-tools
+tools folder which has path – C:\Users\Anish\AppData\Local\Android\sdk\tools
+bin folder inside tools folder with path – C:\Users\Anish\AppData\Local\Android\sdk\tools\bin
+
+Add to Path
+;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\tools;%ANDROID_HOME%\tools\bin

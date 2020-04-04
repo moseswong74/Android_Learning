@@ -6,5 +6,9 @@ platforms-tools folder which has path – C:\Users\Anish\AppData\Local\Android\s
 tools folder which has path – C:\Users\Anish\AppData\Local\Android\sdk\tools
 bin folder inside tools folder with path – C:\Users\Anish\AppData\Local\Android\sdk\tools\bin
 
+%ANDROID_HOME%\platform-tools
+%ANDROID_HOME%\tools
+%ANDROID_HOME%\tools\bin
+
 Add to Path
 ;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\tools;%ANDROID_HOME%\tools\bin
